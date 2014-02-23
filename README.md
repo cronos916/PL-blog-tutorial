@@ -1,5 +1,4 @@
-PageLime Simple Blog Tutorial
-
+#PageLime Simple Blog Tutorial
 
 Bloggidy blog blog boo.
 
@@ -7,7 +6,7 @@ Hey there! So rumor has it you want to blog? And you want it powered by PageLime
 
 So PageLime has to most magical feature ever made by man-kind... Repeating Regions! This voodoo is so versatile that it can be use to make all sorts of great UX for your website, including blogs, image galleries, image sliders, site navigation, lists, itineraries and even cool yummy lime-ade. Okay maybe not that last one.
 
-# With great power comes great responsibility. 
+## With great power comes great responsibility. 
 
 Lets be intelligent for a second shall we? Here at PageLime we always try to use the right tool for the right job. That's why we built PageLime. So many of today's popular CMS apps have way to much... shhhtuff. They have so much stuff they are just a chore to integrate. We don't want that for PageLime.
 
@@ -15,7 +14,7 @@ If you have a client that's asking you to build them the next award winning tech
 
 We expect you to have a bit of HTML & CSS chops. You should be comfortable creating html pages, working with divs, classes, IDs, etc. You should also have a basic knowledge of CSS. If you also have a bit of PHP knowledge great, but not required. 
 
-# Building a basic one page blog
+## Building a basic one page blog
 
 Life in the fast lane? A blog doesn't need to be over complicated. If your client is a restaurant, accountant or small business do they really need categories, permalinks, trackbacks and gremlins? They may just need a single page where they can post their recent news and updates. 
 
